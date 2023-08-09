@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1070967731438",
+    "project_id": "awoof-4785e",
+    "storage_bucket": "awoof-4785e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070967731438:android:cee36e705241c22447afff",
+        "android_client_info": {
+          "package_name": "com.awoof.mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070967731438-5av4l4dphvud4an859rarupirvusobcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnOSna57JGW7tXmt4by1EL2rxyFbBzj_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070967731438-5av4l4dphvud4an859rarupirvusobcc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1070967731438-sm5u6cmkv4v6n54il2obrb810dju8u4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.awoofApp.io",
+                "app_store_id": "1548208975"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

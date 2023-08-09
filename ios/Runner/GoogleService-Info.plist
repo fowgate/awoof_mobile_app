@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1070967731438-sm5u6cmkv4v6n54il2obrb810dju8u4b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1070967731438-sm5u6cmkv4v6n54il2obrb810dju8u4b</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1070967731438-l3qhrmtpt0vosnke0iaeqjp5br9svlhs.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyACNjE0TYCdf8QC9f2aWFTAJ62BGHIFhpE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1070967731438</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.awoofApp.io</string>
+	<key>PROJECT_ID</key>
+	<string>awoof-4785e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>awoof-4785e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1070967731438:ios:0b90e8179286a94347afff</string>
+</dict>
+</plist>

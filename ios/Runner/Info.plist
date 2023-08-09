@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleShortVersionString</key>
+	<string>2.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.8</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Awoof</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Awoof</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.awoofApp.io</string>
+			</array>
+		</dict>
+	</array>
+	<key>FacebookAppID</key>
+	<string>2843898835847760</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>instagram-stories</string>
+		<string>facebook-stories</string>
+		<string>facebook</string>
+		<string>instagram</string>
+		<string>twitter</string>
+		<string>whatsapp</string>
+		<string>tg</string>
+		<string>https</string>
+		<string>http</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Awoof would like to have access to your Media Library</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Awoof would like to have access to your Bluetooth</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Awoof would like to have access to your Bluetooth peripheral</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Awoof would like to have access to your Calendar</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Awoof would like to access your gallery to upload image</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Awoof would like to access your contacts - To earn stars, please enable access to contacts.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Awoof would like to access your location to show you more giveaways in your area</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Awoof would like to access your location to show giveaways in your area</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Awoof would like to access your location to show giveaways in your area</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Awoof would like to use your microphone</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Awoof would like to have access to your Motion Usage</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Awoof would like to have access to your photo library</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Awoof would like to have access to your Speech recognition</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+</dict>
+</plist>
